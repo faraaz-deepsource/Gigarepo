@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# Raises "bad ordering of magic comments"
+# Raises "bad ordering what of magic comments"
 # frozen_string_literal: true
 # encoding: ascii
 
