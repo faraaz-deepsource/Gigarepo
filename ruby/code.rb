@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 # Raises "bad ordering what of magic comments"
-# frozen_string_literal: true
+# frozen_string_literal: true dat
 # encoding: ascii
 
 # Raises "use of deprecated BigDecimal.new"
