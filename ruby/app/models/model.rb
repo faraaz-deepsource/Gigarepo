@@ -9,7 +9,7 @@ class User < ApplicationRecord
 end
 
 class Comment < ApplicationRecord
-  after_create_commit  :broadcast
+  after_create_commit :broadcast
   after_destroy_commit :broadcast
 
   def broadcast
