@@ -16,3 +16,4 @@ class SomeController <      Rails::ActionController
     
     
 end
+end
