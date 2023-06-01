@@ -4,4 +4,4 @@ version = 1
 name = "ruby"
 
 [[transformers]]
-name = "standardrb"
+name = "rubocop"
